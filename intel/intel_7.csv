@@ -1,0 +1,4 @@
+"Model Number","sSpec Number","Frequency","L2-Cache","L3-Cache","Front Side Bus","Multiplier","Voltage","TDP","Socket","Release Date","Part Number(s)","Release Price (USD)"
+"Xeon MP 1.4","SL5FZ (C0) SL5RV (C0)","1400 MHz","256 KB","512 KB","400 MT/s","14x","1.75 V","64 W","Socket 603","March 12, 2002","YF80528KC017512","$1177"
+"Xeon MP 1.5","SL5G2 (C0) SL5RW (C0)","1500 MHz","256 KB","512 KB","400 MT/s","15x","1.75 V","68 W","Socket 603","March 12, 2002","YF80528KC021512","$1980"
+"Xeon MP 1.6","SL5G8 (C0) SL5S4 (C0)","1600 MHz","256 KB","1024 KB","400 MT/s","16x","1.75 V","72 W","Socket 603","March 12, 2002","YF80528KC0251M","$3692"

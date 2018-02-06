@@ -1,0 +1,4 @@
+"Model Number","sSpec Number","Frequency","L2-Cache","L3-Cache","Front Side Bus","Mult","Voltage","TDP","Socket","Release Date","Part Number(s)","Release Price (USD)"
+"Xeon MP 2.83","SL8ED (C0)","2833 MHz","1024 KB","4096 KB","667 MT/s","17x","1.25–1.4 V","129 W","Socket 604","March 29, 2005","RK80546KF0734M","$1177"
+"Xeon MP 3.0","SL8EW (C0)","3000 MHz","1024 KB","8192 KB","667 MT/s","18x","1.25–1.4 V","129 W","Socket 604","March 29, 2005","RK80546KF0808M","$1980"
+"Xeon MP 3.33","SL8EY (C0)","3333 MHz","1024 KB","8192 KB","667 MT/s","20x","1.25–1.4 V","129 W","Socket 604","March 29, 2005","RK80546KF0938M","$3692"

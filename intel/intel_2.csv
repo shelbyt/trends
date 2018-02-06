@@ -1,0 +1,6 @@
+"Model Number","sSpec Number","Frequency","L2-Cache","Front Side Bus","Multiplier","Voltage","TDP","Socket","Release Date","Part Number(s)"
+"Xeon 2.4B","SL7D4 (M0) SL7DF (M0)","2400 MHz","1024 KB","533 MT/s","18x","1.525 V","77 W","Socket 604","March 2003","RK80532KE0561M"
+"Xeon 2.8B","SL7D5 (M0) SL7DG (M0)","2800 MHz","1024 KB","533 MT/s","21x","1.525 V","77 W","Socket 604","February 2004","RK80532KE0721M"
+"Xeon 3.06","SL72G (M0) SL73P (M0)","3066 MHz","1024 KB","533 MT/s","23x","1.525 V","87 W","Socket 604","July 14, 2003","RK80532KE0831M"
+"Xeon 3.2","SL72Y (M0) SL73Q (M0)","3200 MHz","1024 KB","533 MT/s","24x","1.525 V","92 W","Socket 604","October 6, 2003","RK80532KE0881M"
+"Xeon 3.2","SL7AE (M0) SL7BW (M0)","3200 MHz","2048 KB","533 MT/s","24x","1.525 V","92 W","Socket 604","February 2004","RK80532KE0882M"

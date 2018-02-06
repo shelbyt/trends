@@ -1,0 +1,5 @@
+"Model Number","sSpec Number","Frequency","L2-Cache","Front Side Bus","Multiplier","Voltage","TDP","Socket","Release Date","Part Number(s)"
+"Xeon 1.4","SL4WX (C1) SL56G (C1)","1400 MHz","256 KB","400 MT/s","14x","1.75 V","56 W","Socket 603","May 21, 2001","RN80528KC017G0K"
+"Xeon 1.5","SL4ZT (C1) SL5U6 (D0) SL4WY (C1) SL5TD (D0)","1500 MHz","256 KB","400 MT/s","15x","1.75 V","59.2 W","Socket 603","May 21, 2001","RN80528KC021G0K"
+"Xeon 1.7","SL56N (C1) SL5U7 (D0) SL56H (C1) SL5TE (D0)","1700 MHz","256 KB","400 MT/s","17x","1.75 V","65.8 W","Socket 603","May 21, 2001","RN80528KC029G0K"
+"Xeon 2.0","SL5U8 (D0) SL5TH (D0)","2000 MHz","256 KB","400 MT/s","20x","1.75 V","77.5 W","Socket 603","September 2001","RN80528KC041G0K"

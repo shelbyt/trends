@@ -1,0 +1,3 @@
+"Model Number","sSpec Number","Frequency","L2-Cache","Front Side Bus","Mult","Voltage","TDP","Socket","Release Date","Part Number(s)","Release Price (USD)"
+"Xeon MP 3.16","SL84U (A0) SL8UM (B0)","3166 MHz","1024 KB","667 MT/s","19x","1.2875V-1.4V","110 W","Socket 604","March 29, 2005","RK80546KF0871M","$722"
+"Xeon MP 3.66","SL84W (A0) SL8UN (B0)","3667 MHz","1024 KB","667 MT/s","22x","1.2875V-1.4V","110 W","Socket 604","March 29, 2005","RK80546KF1071M","$963"

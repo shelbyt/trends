@@ -1,0 +1,5 @@
+"Model Number","sSpec Number","Frequency","L2-Cache","Front Side Bus","Mult","Voltage","TDP","Socket","Release Date","Part Number(s)","Release Price (USD)"
+"Xeon 7020","SL8UA (A0)","2667 MHz","2 × 1024 KB","667 MT/s","16x","1.2625–1.4125 V","165 W","Socket 604","December 2005","NE80560KF0672MH","$1177"
+"Xeon 7030","SL8UB (A0)","2800 MHz","2 × 1024 KB","800 MT/s","14x","1.2625–1.4125 V","165 W","Socket 604","December 2005","NE80560KG0722MH","$1980"
+"Xeon 7040","SL8UC (A0)","3000 MHz","2 × 2048 KB","667 MT/s","18x","1.2625–1.4125 V","165 W","Socket 604","December 2005","NE80560KF0804MH","$3157"
+"Xeon 7041","SL8UD (A0)","3000 MHz","2 × 2048 KB","800 MT/s","15x","1.2625–1.4125 V","165 W","Socket 604","December 2005","NE80560KG0804MH","$3157"
