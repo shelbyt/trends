@@ -1,0 +1,7 @@
+"Model number","sSpec number","Cores","Frequency","Turbo","L2 cache","L3 cache","TDP","Socket","I/O bus","Memory","Release date","Part number(s)","Release price (USD)"
+"standard power","","","","","","","","","","","","",""
+"Xeon E5-1603","SR0L9 (M1)","4","2.8 GHz","N/A","4 × 256 KiB","10 MiB","130 W","LGA 2011","DMI 2.0","4 × DDR3-1066","March 6, 2012","CM8062107186502","$198"
+"Xeon E5-1607","SR0L8 (M1)","4","3 GHz","N/A","4 × 256 KiB","10 MiB","130 W","LGA 2011","DMI 2.0","4 × DDR3-1066","March 6, 2012","CM8062107186102","$244"
+"Xeon E5-1620","SR0LC (M1)","4","3.6 GHz","1/1/2/2","4 × 256 KiB","10 MiB","130 W","LGA 2011","DMI 2.0","4 × DDR3-1600","March 6, 2012","CM8062101038606","$294"
+"Xeon E5-1650","SR0HC (C1) SR0KZ (C2)","6","3.2 GHz","3/3/4/5/6/6","6 × 256 KiB","12 MiB","130 W","LGA 2011","DMI 2.0","4 × DDR3-1600","March 6, 2012","CM8062101102002","$583"
+"Xeon E5-1660","SR0H2 (C1) SR0KN (C2)","6","3.3 GHz","3/3/4/4/6/6","6 × 256 KiB","15 MiB","130 W","LGA 2011","DMI 2.0","4 × DDR3-1600","March 6, 2012","CM8062107284111 BX80621E51660","$1080 $1083"

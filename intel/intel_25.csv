@@ -1,0 +1,8 @@
+"Model number","sSpec number","Cores","Frequency","L2 cache","FSB","Mult.","Voltage","TDP","Socket","Release date","Part number(s)","Release price (USD)"
+"Quad Core","","","","","","","","","","","",""
+"Xeon X3350","SLAN7 (C0) SLAX2 (C1) SLB8Y (E0)","4","2.67 GHz","2 × 6 MiB","1333 MT/s","8×","0.85–1.3625 V","95 W","LGA 775","January 7, 2008","EU80569KJ067N AT80569KJ067N BX80569X3350","$316"
+"Xeon X3360","SLAN5 (C0) SLAWZ (C1) SLB8X (E0)","4","2.83 GHz","2 × 6 MiB","1333 MT/s","8.5×","0.85–1.3625 V","95 W","LGA 775","January 7, 2008","EU80569KJ073N AT80569KJ073N BX80569X3360","$530"
+"Xeon X3370","SLB8Z (E0)","4","3 GHz","2 × 6 MiB","1333 MT/s","9×","0.85–1.3625 V","95 W","LGA 775","August 10, 2008","AT80569KJ080N","$530"
+"Xeon X3380","SLGPG (E0)","4","3.17 GHz","2 × 6 MiB","1333 MT/s","9.5×","0.85–1.3625 V","95 W","LGA 775","February 22, 2009","AT80569KJ087N","$530"
+"Quad Core, low voltage","","","","","","","","","","","",""
+"Xeon L3360","SLGPF (E0)","4","2.83 GHz","2 × 6 MiB","1333 MT/s","8.5×","0.85–1.3625 V","65 W","LGA 775","February 22, 2009","AT80569JJ073N","$369"

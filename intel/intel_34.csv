@@ -1,0 +1,7 @@
+"Model number","sSpec number","Frequency","Turbo","Cores","L2 cache","L3 cache","I/O bus","Mult.","Memory","Voltage","TDP","Socket","Release date","Part number(s)","Release price (USD)"
+"Single Core, low voltage","","","","","","","","","","","","","","",""
+"Xeon LC3518","SLBWH (B0)","1.73 GHz","N/A","1","1 × 256 KiB","2 MiB","DMI","13×","2 × DDR3-800","0.75–1.35 V","23 W","LGA 1366","February 11, 2010","AT80612002946AA","$192"
+"Dual Core, low voltage","","","","","","","","","","","","","","",""
+"Xeon LC3528","SLBWG (B0)","1.73 GHz","1866 MHz","2","2 × 256 KiB","4 MiB","DMI","13×","2 × DDR3-800","0.75–1.35 V","35 W","LGA 1366","February 11, 2010","AT80612002931AB","$302"
+"Quad Core","","","","","","","","","","","","","","",""
+"Xeon EC3539","SLBWJ (B0)","2.13 GHz","N/A","4","4 × 256 KiB","8 MiB","DMI","16×","3 × DDR3-1066","0.75–1.35 V","65 W","LGA 1366","February 11, 2010","AT80612003090AA","$302"

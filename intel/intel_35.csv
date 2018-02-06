@@ -1,0 +1,5 @@
+"Model number","sSpec number","Frequency","Turbo","Cores","L2 cache","L3 cache","I/O bus","Mult.","Memory","Voltage","TDP","Socket","Release date","Part number(s)","Release price (USD)"
+"Six Core","","","","","","","","","","","","","","",""
+"Xeon W3670","SLBVE (B1)","3.2 GHz","1/1/1/1/2/2","6","6 × 256 KiB","12 MiB","1 × 4.8 GT/s QPI","24×","3 × DDR3-1066","0.8–1.375 V","130 W","LGA 1366","August 29, 2010","AT80613005490AC BX80613W3670","$885"
+"Xeon W3680","SLBV2 (B1)","3.33 GHz","1/1/1/1/2/2","6","6 × 256 KiB","12 MiB","1 × 6.4 GT/s QPI","25×","3 × DDR3-1333","0.8–1.375 V","130 W","LGA 1366","March 16, 2010","AT80613003543AF BX80613W3680","$999"
+"Xeon W3690","SLBW2 (B1)","3.47 GHz","1/1/1/1/2/2","6","6 × 256 KiB","12 MiB","1 × 6.4 GT/s QPI","26×","3 × DDR3-1333","0.8–1.375 V","130 W","LGA 1366","February 14, 2011","AT80613005931AB BX80613W3690","$999"

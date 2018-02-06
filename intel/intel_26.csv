@@ -1,0 +1,5 @@
+"Model number","sSpec number","Cores","Frequency","L2 cache","FSB","Mult.","Voltage","TDP","Socket","Release date","Part number(s)","Release price (USD)"
+"Quad Core","","","","","","","","","","","",""
+"Xeon X3323","SLASE (C1) SLBC5 (E0)","4","2.5 GHz","2 × 3 MiB","1333 MT/s","7.5×","0.85–1.35 V","80 W","LGA 771","March 2008","EU80584KJ060J AT80584KJ060J","OEM"
+"Xeon X3353","SLASD (C1) SLBC4 (E0)","4","2.67 GHz","2 × 6 MiB","1333 MT/s","8×","0.85–1.35 V","80 W","LGA 771","March 2008","EU80584KJ067N AT80584KJ067N","OEM"
+"Xeon X3363","SLASC (C1) SLBC3 (E0)","4","2.83 GHz","2 × 6 MiB","1333 MT/s","8.5×","0.85–1.35 V","80 W","LGA 771","March 2008","EU80584KJ073N AT80584KJ073N","OEM"

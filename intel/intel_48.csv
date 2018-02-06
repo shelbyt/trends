@@ -1,0 +1,4 @@
+"Model number","sSpec number","Cores","Frequency","Turbo","L2 cache","L3 cache","TDP","Socket","I/O bus","Memory","Release date","Part number(s)","Release price (USD)"
+"Xeon E3-1105C v2","SR1J1 (E1)","4","1.8 GHz","N/A","4 × 256 KiB","8 MiB","25 W","BGA 1284","DMI 2.0","2 × DDR3-1600","September 10, 2013","CN8063801194002","$320"
+"Xeon E3-1125C v2","SR1J0 (E1)","4","2.5 GHz","N/A","4 × 256 KiB","8 MiB","40 W","BGA 1284","DMI 2.0","2 × DDR3-1600","September 10, 2013","CN8063801193902","$448"
+"Xeon E3-1135C v2","SR1HZ (E1)","4","3 GHz","N/A","4 × 256 KiB","8 MiB","55 W","BGA 1284","DMI 2.0","2 × DDR3-1600","September 10, 2013","CN8063801193802","OEM"

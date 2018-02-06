@@ -1,0 +1,4 @@
+"Model number","sSpec number","Frequency","Turbo","GPU frequency","Cores","L2 cache","L3 cache","I/O bus","Mult.","Memory","Voltage","TDP","Socket","Release date","Part number(s)","Release price (USD)"
+"Dual Core, low voltage","","","","","","","","","","","","","","","",""
+"Xeon L3403","SLBT9 (K0) SLBRX (C2)","2 GHz","N/A","N/A","2","2 × 256 KiB","4 MiB","DMI","15×","2 × DDR3-1066","0.65–1.40 V","30 W","LGA 1156","October 2010","CM80616005496AB","OEM"
+"Xeon L3406","SLBT8 (K0) SLBQQ (C2)","2.27 GHz","2.53 GHz","N/A","2","2 × 256 KiB","4 MiB","DMI","17×","2 × DDR3-1066","0.65–1.40 V","30 W","LGA 1156","March 16, 2010","CM80616005010AA BX80616L3406","$189"

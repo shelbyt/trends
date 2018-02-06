@@ -1,0 +1,5 @@
+"Model number","sSpec number","Cores","Frequency","L2 cache","FSB","Mult.","Voltage","TDP","Socket","Release date","Part number(s)","Release price (USD)"
+"Single Core, low voltage","","","","","","","","","","","",""
+"Xeon L3014","SLBB2 (E0)","1","2.4 GHz","3 MiB","1066 MT/s","9×","0.85–1.3625 V","30 W","LGA 771","February 27, 2008","AT80588JH0563M","OEM"
+"Dual Core","","","","","","","","","","","",""
+"Xeon E3113","SLBAX (E0)","2","3 GHz","6 MiB","1333 MT/s","9×","0.85–1.3625 V","65 W","LGA 771","September 8, 2008","AT80588QJ0806M","OEM"

@@ -1,0 +1,6 @@
+"Model number","sSpec number","Cores","Frequency","L2 cache","FSB","Mult.","Voltage","TDP","Socket","Release date","Part number(s)","Release price (USD)"
+"Dual Core","","","","","","","","","","","",""
+"Xeon E3110","SLAPM (C0) SLB9C (E0)","2","3 GHz","6 MiB","1333 MT/s","9×","0.85–1.3625 V","65 W","LGA 775","January 8, 2008","EU80570KJ0806M AT80570KJ0806M","$188"
+"Xeon E3120","SLB9D (E0)","2","3.17 GHz","6 MiB","1333 MT/s","9.5×","0.85–1.3625 V","65 W","LGA 775","August 10, 2008","AT80570KJ0876M","$188"
+"Dual Core, low voltage","","","","","","","","","","","",""
+"Xeon L3110","SLGP9 (E0)","2","3 GHz","6 MiB","1333 MT/s","9×","0.85–1.3625 V","45 W","LGA 775","February 22, 2009","AT80570JJ0806M","$224"

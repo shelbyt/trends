@@ -1,0 +1,5 @@
+"Model number","sSpec number","Cores","Frequency","L2 cache","FSB","Mult.","Voltage","TDP","Socket","Release date","Part number(s)","Release price (USD)"
+"Quad Core","","","","","","","","","","","",""
+"Xeon X3210","SL9UQ (B3) SLACU (G0)","4","2.13 GHz","2 × 4 MiB","1066 MT/s","8×","0.85–1.5 V","105 W 100 W","LGA 775","January 7, 2007","HH80562QH0468M BX80562X3210","$690"
+"Xeon X3220","SL9UP (B3) SLACT (G0)","4","2.4 GHz","2 × 4 MiB","1066 MT/s","9×","0.85–1.5 V","105 W 100 W","LGA 775","January 7, 2007","HH80562QH0568M BX80562X3220","$851"
+"Xeon X3230","SLACS (G0)","4","2.67 GHz","2 × 4 MiB","1066 MT/s","10×","0.85–1.5 V","100 W","LGA 775","July 27, 2007","HH80562QH0678M BX80562X3230","$530"

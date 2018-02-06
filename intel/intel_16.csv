@@ -1,0 +1,7 @@
+"Model number","sSpec number","Frequency","L2 cache","FSB","Mult.","Voltage","TDP","Socket","Release date","Part number(s)","Release price (USD)"
+"Dual Core, low voltage","","","","","","","","","","",""
+"Xeon LV 1.66","SL98Q (C0) SL9HP (D0)","1.67 GHz","2 MiB","667 MT/s","10×","1.1125–1.275 V","31 W","Socket M","March 14, 2006","LF80539KF0282M","$209"
+"Xeon LV 2.0","SL8WT (C0) SL9HN (D0)","2 GHz","2 MiB","667 MT/s","12×","1.1125–1.275 V","31 W","Socket M","March 14, 2006","LF80539KF0412M","$423"
+"Xeon LV 2.16","SL9HM (D0)","2.17 GHz","2 MiB","667 MT/s","13×","1.1125–1.275 V","31 W","Socket M","Q3 2006","LF80539KF0482M","OEM"
+"Dual Core, ultra low voltage","","","","","","","","","","",""
+"Xeon ULV 1.66","SL9HS (D0)","1.67 GHz","2 MiB","667 MT/s","10×","0.8250–1.2125 V","15 W","Socket M","March 14, 2006","LF80539JF0282M","OEM"

@@ -1,0 +1,3 @@
+"Model number","sSpec number","Cores","Frequency","Turbo","L2 cache","L3 cache","TDP","Socket","I/O bus","Memory","Release date","Part number(s)","Release price (USD)"
+"Xeon E5-1410 v2","SR1B0 (S1)","4","2.8 GHz","3/3/4/4","4 × 256 KiB","10 MiB","80 W","LGA 1356","DMI 2.0","3 × DDR3-1600","Jan 9, 2014","CM8063401376501","OEM"
+"Xeon E5-1428L v2","SR1B9 (S1)","6","2.2 GHz","2/2/2/3/4/5","6 × 256 KiB","15 MiB","60 W","LGA 1356","DMI 2.0","3 × DDR3-1600","Jan 9, 2014","CM8063401521400","$494"

@@ -1,0 +1,4 @@
+"Model number","sSpec number","Cores","Frequency","L2 cache","FSB","Mult.","Voltage","TDP","Socket","Release date","Part number(s)","Release price (USD)"
+"Quad Core","","","","","","","","","","","",""
+"Xeon X3320","SLAWF (M1) SLB69 (R0)","4","2.5 GHz","2 × 3 MiB","1333 MT/s","7.5×","0.85–1.3625 V","95 W","LGA 775","January 7, 2008","EU80580KJ0606M AT80580KJ0606M","$266"
+"Xeon X3330","SLB6C (R0)","4","2.67 GHz","2 × 3 MiB","1333 MT/s","8×","0.85–1.3625 V","95 W","LGA 775","August 10, 2008","AT80580KJ0676M","$266"

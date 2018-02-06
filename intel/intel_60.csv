@@ -1,0 +1,5 @@
+"Model number","sSpec number","Cores","Frequency","Turbo","L2 cache","L3 cache","TDP","Socket","I/O bus","Memory","Release date","Part number(s)","Release price (USD)"
+"Xeon E5-2408L v3","SR236 (R2)","4","1.8 GHz","N/A","4 × 256 KiB","10 MiB","45 W","LGA 1356-3","6.4 GT/s QPI","3 × DDR3-1333","Jan 12, 2015","CM8064301559301","$256"
+"Xeon E5-2418L v3","SR232 (R2)","6","2 GHz","N/A","6 × 256 KiB","15 MiB","50 W","LGA 1356-3","6.4 GT/s QPI","3 × DDR3-1333","Jan 12, 2015","CM8064301442740","$472"
+"Xeon E5-2428L v3","SR235 (R2)","8","1.8 GHz","2/2/2/2/2/3/5/5","8 × 256 KiB","20 MiB","55 W","LGA 1356-3","8.0 GT/s QPI","3 × DDR3-1600","Jan 12, 2015","CM8064301559000","$811"
+"Xeon E5-2438L v3","SR233 (M1)","10","1.8 GHz","2/2/2/2/2/2/2/3/5/5","10 × 256 KiB","25 MiB","70 W","LGA 1356-3","8.0 GT/s QPI","3 × DDR3-1600","Jan 12, 2015","CM8064301547350","$1555"

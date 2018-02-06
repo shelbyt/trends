@@ -1,0 +1,5 @@
+"Model number","sSpec number","Cores","Frequency","Turbo","L2 cache","L3 cache","TDP","Socket","I/O bus","Memory","Release date","Part number(s)","Release price (USD)"
+"Quad Core","","","","","","","","","","","","",""
+"Xeon E5-1410","SR0RM (M1)","4","2.8 GHz","3/4/4/4","4 × 256 KiB","10 MiB","80 W","LGA 1356","DMI 2.0","3 × DDR3-1333","May 14, 2012","CM8062001257301","OEM"
+"Six Core","","","","","","","","","","","","",""
+"Xeon E5-1428L","SR0JW (C2) SR0M4 (C2)","6","1.8 GHz","N/A","6 × 256 KiB","15 MiB","60 W","LGA 1356","DMI 2.0","3 × DDR3-1333","Q2 2012","CM8062001144000","$395"
